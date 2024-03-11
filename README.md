@@ -4,6 +4,8 @@ This repository is associated with the below publication regarding the generaliz
 ### "Skeletons, object shape, statistics."
 ### Pizer, Stephen M., J. S. Marron, James N. Damon, Jared Vicory, Akash Krishna, Zhiyuan Liu, and Mohsen Taheri. Frontiers in Computer Science 4 (2022): 842637
 
+
+### Links
 [https://doi.org/10.3389/fcomp.2022.842637]
 
 [Skeletons, Object Shape, Statistics.pdf](https://github.com/MohsenTaheriShalmani/Generalization_of_Fitted_Frames/files/14559833/Skeletons.Object.Shape.Statistics.pdf)
