@@ -1,8 +1,8 @@
 This repository is associated with the below publication regarding the generalization of fitted frames for elliptical objects and spaces.
 
 ## Article
-Pizer, Stephen M., J. S. Marron, James N. Damon, Jared Vicory, Akash Krishna, Zhiyuan Liu, and Mohsen Taheri.
-"Skeletons, object shape, statistics." Frontiers in computer science 4 (2022): 842637.
+### "Skeletons, object shape, statistics."
+### Pizer, Stephen M., J. S. Marron, James N. Damon, Jared Vicory, Akash Krishna, Zhiyuan Liu, and Mohsen Taheri. Frontiers in computer science 4 (2022): 842637
 
 ### Cite
 ```
